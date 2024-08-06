@@ -1,0 +1,6 @@
+@ZeroWeatherAPI.Web_HostAddress = http://localhost:5014
+
+GET {{ZeroWeatherAPI.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
